@@ -1,4 +1,4 @@
-## Hi, I'm Farah Al-Fuqaha 👋
+## Hi, I'm Farah Al-Fukaha 👋
 
 🎓 Data Science & Artificial Intelligence student  
 💡 Interested in Machine Learning, NLP, Computer Vision, Deep Learning, and Large Language Models (LLMs)
